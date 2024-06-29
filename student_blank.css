@@ -1,0 +1,81 @@
+<!--
+/* set the default font for pars */
+P  {font-size: 12px; 
+      font-family: Arial,Helvetica,sans-serif;
+      line-height: 13px;
+      text-indent: 0px}
+
+/* Cell options */      
+
+/* Default  table font */
+TD  {font-size: 12px; 
+      font-family: Arial,Helvetica,sans-serif;
+      font-weight: 800;
+      line-height: 13px;
+      text-indent: 0px}
+
+
+/* Plain font for tables */
+TD.plain  {font-size: 12px; 
+      font-family: Arial,Helvetica,sans-serif;
+      font-weight: 100;
+      line-height: 13px;
+      text-indent: 0px}
+
+
+
+/* Yellow font in the black menu */      
+TD.main {font-size:12px;
+		  font-family: Arial,Helvetica,sans-serif;
+		  font-weight: 100;
+		  /* color: #FBD758; */
+		  background-color: #000000;
+		  color: white;
+    	  }
+/* Black cell with bold yellow font inside */
+TD.tdmainheader {font-size:12px;
+		  font-family: Arial,Helvetica,sans-serif;
+		  font-weight: 800;
+         line-height: 15px;
+		  /* color: #FBD758; */
+		  /* background-color: #334D62; */
+		  color: white;
+		  background-color:black;
+    	  }
+
+TD.tdmaincolorcell {font-size:12px;
+		  font-family: Arial,Helvetica,sans-serif;
+		  font-weight: 800;
+         line-height: 15px;
+		  /* color: #FBD758; */
+		  /* background-color: #CC9900; */
+		  background-color:gray;
+    	  }
+
+/*
+A.main {text-decoration: none;color:FBD758}
+A.main:active {color:FBD758}
+A.main:HOVER {color:white}	
+
+*/
+
+/* ----------------------- CSS ends here... --------------------------------*/
+
+/* Some stuff from the headers and footers */
+
+
+A.main {font-size:12px;text-decoration: none; font-weight: 800 ;font-family: Arial,Helvetica,sans-serif ;color:FBD758}
+A.main:active {color: #FBD758}
+A.main:HOVER {color:white}	
+
+
+	
+
+
+
+
+
+
+
+
+-->
